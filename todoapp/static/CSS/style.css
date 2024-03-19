@@ -14,7 +14,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 5rem;
+ 
 }
 
 .todo-list-item .btn-container a {
@@ -185,5 +185,25 @@ p {
 
 .single-task {
     width: 16rem;
-    text-decoration: line-through;
+}
+
+.header {
+    margin-top: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.name {
+    margin-bottom: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.icon {
+    font-size: unset;
+}
+
+.frakoDev {
+    color: aqua;
+    font-family: monospace;
 }
