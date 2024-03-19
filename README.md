@@ -2,8 +2,13 @@
 
 This is a simple ToDo List web application built with Django. It allows users to manage their tasks with basic CRUD (Create, Read, Update, Delete) operations.
 
-## Image Preview
-![alt text](http://url/to/img.png)
+## Preview
+
+### Image
+![Alt text](image.png)
+
+### Video 
+https://www.awesomescreenshot.com/video/25962926?key=71ee743cb726b8e286e9bf2714eb7e0e
 
 ## Getting Started
 
